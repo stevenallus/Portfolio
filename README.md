@@ -101,7 +101,6 @@ Aumentar la efectividad de los comerciales a la hora de convertir leads en clien
 ## Education
 Data Science, Bachelor's Degree - GPA: 9,13/10
 
-Here's the translation formatted for direct use in your GitHub:
 
 ## PROJECTS
 
