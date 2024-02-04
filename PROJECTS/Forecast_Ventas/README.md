@@ -2,6 +2,10 @@
 
 Esta empresa fabrica y distribuye colores alrededor de todo el mundo, su producto principal es el color negro, del cual depende la 60% de su producción y el 50% de sus ventas.
 
+![alt text](https://github.com/stevenallus/Portfolio/blob/main/PROJECTS/Forecast_Ventas/01_Documentos/forecasventas_final.png)
+
+
+
 ## Motivo del caso
 
 Para el departamente de produccion y de ventas es critico poder mejorar la previsibilidad de ventas de los diferentes productos, 
@@ -36,3 +40,4 @@ BASE de datos SQL con 3 años de ventas
 * Generar predicciones a varios dias vista. La produccion y la compra de materia prima no se puede hacer el mismo dia por lo que se tienes que hacer la prevision a varios dias vista a fin de que esos departamentos puedan organizarse de manera adecuada, es decir, predecir las ventas de solo mañana no nos ayuda.
 
 * El forecast con ARIMA me hace prediccion de ese horizonte en adelante pero en Machine Learning una de las dificultades es que solo me predicen a 1 dias vista, hay dos maneras de solucionarlo y explico el porque elijo una.
+
