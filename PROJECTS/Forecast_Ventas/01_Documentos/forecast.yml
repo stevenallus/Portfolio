@@ -1,4 +1,4 @@
-name: retail
+name: forecast
 channels:
   - conda-forge
   - defaults
@@ -161,4 +161,4 @@ dependencies:
     - category-encoders==2.3.0
     - patsy==0.5.2
     - statsmodels==0.13.2
-prefix: C:\Users\isaac\miniconda3\envs\retail
+prefix: C:\Users\steveb\miniconda3\envs\forecast
