@@ -1,4 +1,6 @@
-![alt text](https://github.com/stevenallus/Portfolio/blob/main/assets/img/lead-scoring-model-1.webp)
+![alt text](https://github.com/stevenallus/Portfolio/blob/main/assets/img/segmentation-is-cool.png)
+
+
 # Lead Scoring y Segmentación de Clientes
 
 El caso demuestra en un Ecommerce como coger un modelo comercial inbound multifase, usar aprendizaje no supervisado para realizar la segmentacion de leads y luego otra parte de aprendizaje supervisado para hacer un lead scoring (cualificar y priorizar leads)
