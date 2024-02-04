@@ -11,9 +11,7 @@ Data Science, Grado Universitario - Nota media: 9,13/10
 
 ## PROYECTOS
 
-### FORECAST DE VENTAS
-
-[*link*](https://github.com/stevenallus/Portfolio/tree/main/PROJECTS/Forecast_Ventas)
+### FORECAST DE VENTAS [*link*](https://github.com/stevenallus/Portfolio/tree/main/PROJECTS/Forecast_Ventas)
 
 ![alt text](https://github.com/stevenallus/Portfolio/blob/main/PROJECTS/Forecast_Ventas/01_Documentos/forecasventas_final.png)
 
@@ -38,12 +36,10 @@ Predecir las ventas es clave para el correcto funcionamiento de toda las cadenas
 * Generar predicciones a varios dias vista.
 
 * Uso de ML en vez de ARIMAS
-
+---
   
 
-### LEAD SCORING Y SEGMENTACIÓN DE CLIENTES
-
-[*link*](https://github.com/stevenallus/Portfolio/tree/main/PROJECTS/Lead_Scoring)
+### LEAD SCORING Y SEGMENTACIÓN DE CLIENTES [*link*](https://github.com/stevenallus/Portfolio/tree/main/PROJECTS/Lead_Scoring)
 
 ![alt text](https://github.com/stevenallus/Portfolio/blob/main/assets/img/segmentation-is-cool.png)
 
@@ -63,6 +59,7 @@ Aumentar la efectividad de los comerciales a la hora de convertir leads en clien
 * Analizar la segmentacion de los leads mediante un algoritmo no supervisado que permita dar recomendaciones de consultoría a la empresa.
 
 * Generar un modelo escalable y reentrenable.
+---
 
 
 ## Experiencia Laboral
