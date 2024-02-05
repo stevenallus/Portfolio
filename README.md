@@ -81,8 +81,10 @@ El objetivo principal del proyecto es incrementar la efectividad de los comercia
 
 - **Modelo Escalable y Reentrenable:**
   - Desarrollar un modelo de lead scoring que no solo sea escalable, adaptándose al crecimiento del volumen de leads, sino que también pueda ser reentrenado periódicamente. Esto asegura que el sistema se mantenga actualizado con las últimas tendencias y cambios en el comportamiento de los leads, garantizando su efectividad a largo plazo.
+ 
 
 El proyecto de Lead Scoring está diseñado para transformar la estrategia de ventas, proporcionando al equipo comercial las herramientas necesarias para actuar de manera más estratégica y eficiente. A través de la ciencia de datos y el aprendizaje automático, se abren nuevas puertas hacia la optimización de la conversión de leads, asegurando un impacto positivo y medible en la rentabilidad y el crecimiento de la empresa.
+
 ---
 
 
@@ -189,6 +191,7 @@ The main goal of the project is to increase the effectiveness of sales professio
 
 The Lead Scoring Project is designed to transform the sales strategy, providing the sales team with the necessary tools to act more strategically and efficiently. Through data science and machine learning, new doors are opened towards optimizing lead conversion, ensuring a positive and measurable impact on the company's profitability and growth.
 
+---
   
 ## Work Experience
 
