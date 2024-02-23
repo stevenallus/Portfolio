@@ -6,7 +6,14 @@ import numpy as np
 # Título de la aplicación
 # Título de la aplicación centrado
 st.markdown("<h1 style='text-align: center;'>Calculadora Proyecto Hotel Neolith</h1>", unsafe_allow_html=True)
-
+#AVISO
+st.markdown(
+    """
+    ⚠️ Esta app es para el análisis del caso del Hotel, ¡léelo antes! 
+    [Aquí](https://github.com/stevenallus/Portfolio/blob/main/PROJECTS/costes_ceramica/costes_produccion.ipynb)
+    """,
+    unsafe_allow_html=True
+)
 # Mostrar una imagen de un hotel desde una URL en forma de círculo, centrada
 st.markdown(
     """
