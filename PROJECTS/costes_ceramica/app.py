@@ -7,7 +7,14 @@ import pandas as pd
 
 # Título de la aplicación
 st.title('Calculadora Producción Neolith')
-
+#AVISO
+st.markdown(
+    """
+    ⚠️ Esta app es para el análisis del caso del Hotel, ¡léelo antes! 
+    [Aquí](https://github.com/stevenallus/Portfolio/blob/main/PROJECTS/costes_ceramica/costes_produccion.ipynb)
+    """,
+    unsafe_allow_html=True
+)
 
 # Entradas del usuario
 precio_venta = st.number_input('Precio de venta por m² (€)', min_value=0.0, format='%.2f')
