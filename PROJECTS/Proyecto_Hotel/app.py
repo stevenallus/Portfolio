@@ -10,7 +10,7 @@ st.markdown("<h1 style='text-align: center;'>Calculadora Proyecto Hotel Neolith<
 st.markdown(
     """
     ⚠️ Esta app es para el análisis del caso del Hotel, ¡léelo antes! 
-    [Aquí](https://github.com/stevenallus/Portfolio/blob/main/PROJECTS/costes_ceramica/costes_produccion.ipynb)
+    [Aquí](https://github.com/stevenallus/Portfolio/blob/main/PROJECTS/Proyecto_Hotel/Neolith_Proyecto_Hotel.ipynb)
     """,
     unsafe_allow_html=True
 )
