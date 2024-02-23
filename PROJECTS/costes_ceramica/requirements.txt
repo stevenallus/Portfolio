@@ -1,2 +1,0 @@
-matplotlib==3.4.3
-streamlit-echarts==0.4.0
