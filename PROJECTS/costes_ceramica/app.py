@@ -10,7 +10,7 @@ st.title('Calculadora Producción Neolith')
 #AVISO
 st.markdown(
     """
-    ⚠️ Esta app es para el análisis del caso del Hotel, ¡léelo antes! 
+    ⚠️ Esta app es para el análisis del caso de análisis de competividad y costes, ¡léelo antes! 
     [Aquí](https://github.com/stevenallus/Portfolio/blob/main/PROJECTS/costes_ceramica/costes_produccion.ipynb)
     """,
     unsafe_allow_html=True
