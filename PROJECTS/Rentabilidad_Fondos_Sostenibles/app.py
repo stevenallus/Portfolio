@@ -4,7 +4,13 @@ import pandas as pd
 
 # Título de la aplicación
 st.title('Rentabilidad Fondos Sostenibles ODS')
-
+st.markdown(
+    """
+    ⚠️ Esta app es para el análisis de casos de inversión en Fondos Sostenibles, ¡léelo antes! 
+    [Aquí](https://github.com/stevenallus/Portfolio/blob/main/PROJECTS/Rentabilidad_Fondos_Sostenibles/Actividad_2_Entrega.pdf)
+    """,
+    unsafe_allow_html=True
+)
 # Selector de fondos
 selected_funds = st.multiselect('Selecciona fondos', ['ESG', 'SUSA', 'ESGU'], default=['ESG'])
 
