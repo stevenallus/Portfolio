@@ -3,7 +3,7 @@ import yfinance as yf
 import pandas as pd
 
 # Título de la aplicación
-st.title('Rentabilidad Fondos Sostenibles ODS')
+st.markdown("<h1 style='text-align: center;'>Rentabilidad Fondos ODS</h1>", unsafe_allow_html=True)
 st.markdown(
     """
     ⚠️ Esta app es para el análisis de casos de inversión en Fondos Sostenibles, ¡léelo antes! 
